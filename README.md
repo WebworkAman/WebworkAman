@@ -13,11 +13,13 @@ MYSQL<br>
 JQUERY<br>
 
 - 💡DEMO 
+ - 👤 personal
 <hr>
 <a href="https://webworkaman.github.io/RWD/">RWD</a>
 <br>
 <a href="https://webworkaman.github.io/Bootstrap4/">Bootstrap4</a>
 <br>
+   - 👥 Team
 
 <!---
 WebworkAman/WebworkAman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
