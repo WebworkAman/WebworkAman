@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue.js 
 - 📫 How to reach me : webwork.aman@gmail.com
 
-📚 Language and Framework
+-📚 Language and Framework<br>
 HTML5
 CSS3, SCSS, SASS
 JavaScript(ES6)
