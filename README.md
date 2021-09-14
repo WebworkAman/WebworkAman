@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Aman
 - 👀 I’m interested in coding & outdooring
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning React / Vue.js 
 - 📫 How to reach me : webwork.aman@gmail.com
 
 - 📚 Language and Framework <hr>
+React / Vue.js<br>
 HTML5<br>
 CSS3, SCSS, SASS<br>
 JavaScript(ES6)<br>
-Vue.js<br>
 PHP<br>
 MYSQL<br>
 JQUERY<br>
