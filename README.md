@@ -20,7 +20,7 @@ JQUERY<br>
 <br>
 <a href="https://webworkaman.github.io/Bootstrap4/">Bootstrap4</a>
 <br>
-<a href="https://webworkaman.github.io/Css-Grid/">Bootstrap4</a>
+<a href="https://webworkaman.github.io/Css-Grid/">Css-Grid</a>
 
 <br><br>
   👥 Team <br><br>
