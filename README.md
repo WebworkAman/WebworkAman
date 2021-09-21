@@ -26,7 +26,7 @@ JQUERY<br>
 <br>
 <a href="https://webworkaman.github.io/Css-select/">CssSelect(Sub Navigation)</a>
 <br>
-<a href="https://webworkaman.github.io/Css-select/">CssOnePage</a>
+<a href="https://webworkaman.github.io/CssOnePage/">CssOnePage</a>
 
 <br><br>
   👥 Team <br><br>
