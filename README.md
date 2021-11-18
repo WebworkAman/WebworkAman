@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman
+- 👋 Hi, I’m Aman / Oshima IT Front-end Developer
 - 👀 I’m interested in coding & outdooring
 - 🌱 I’m currently learning Vue.js / React
 - 📫 How to reach me : webwork.aman@gmail.com
