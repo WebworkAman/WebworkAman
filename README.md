@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aman / Oshima IT Front-end Developer
 - 👀 I’m interested in coding & outdooring
-- 🌱 I’m currently learning Vue.js / React
 - 📫 How to reach me : webwork.aman@gmail.com
 
 - 📚 Language and Framework <hr>
@@ -8,7 +7,7 @@ React / Vue.js<br>
 HTML5<br>
 CSS3, SCSS, SASS<br>
 JavaScript(ES6)<br>
-PHP<br>
+PHP / Laravel<br>
 MYSQL<br>
 JQUERY<br>
 
