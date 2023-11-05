@@ -3,7 +3,7 @@
 - 📫 How to reach me : webwork.aman@gmail.com
 
 - 📚 Language and Framework <hr>
-React / Vue.js<br>
+Laravel / Vue.js<br>
 HTML5<br>
 CSS3, SCSS, SASS<br>
 JavaScript(ES6)<br>
